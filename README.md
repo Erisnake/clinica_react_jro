@@ -1,5 +1,3 @@
-# citas_react_vite
-
 # Desarrollado por Juan Román Ortiz Blanco
 
 # Aplicación de Gestión de Pacientes de Clínica
