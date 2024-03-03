@@ -1,8 +1,9 @@
+# Aplicación de Gestión de Pacientes de Clínica
 # Desarrollado por Juan Román Ortiz Blanco
 
-# Aplicación de Gestión de Pacientes de Clínica
+# Este proyecto es una aplicación web construida utilizando React, Vite y Tailwind CSS.
 
-# Este proyecto es una aplicación web construida utilizando React, Vite y Tailwind CSS, # diseñada para gestionar los registros de pacientes para una clínica.
+# Diseñada para gestionar los registros de pacientes para una clínica.
 
 # Características
 # Gestión de Pacientes: Agrega, actualiza y elimina fácilmente los registros de pacientes.
